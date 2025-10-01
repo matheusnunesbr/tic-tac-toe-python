@@ -1,0 +1,3 @@
+Este projeto não possui dependências externas.
+O código utiliza apenas bibliotecas padrão do Python (como 'math').
+Se futuras dependências forem adicionadas (ex: numpy, pygame), elas devem ser listadas aqui.
